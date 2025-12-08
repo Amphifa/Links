@@ -1,21 +1,22 @@
+-----------------------[Important Links]----------------------
 **PDX ICE/DHS License Plate Project:**
   https://ipfs.io/ipfs/bafybeign25hjov5cjxt6oei6zp5ei7k4wbkgm4usxhahjkl3wsbi4w7gxu/
 
 **ICE Agent & Collaborator Tracking Project:**
-  icelist.is
+  http://icelist.is
 
-
+------------------------[Resources]---------------------------
 
 **Foraging Map:**
-  FallingFruit.org
+  http://www.FallingFruit.org
 
 **Get Resources Near You:**
-  FindHelp.org
+  http://www.FindHelp.org
 
 **De-Arrest Primer:**
   https://archive.org/details/dearrest_primer/page/n8/mode/1up
 
-
+------------------------[The Library]------------------------
 
 **THE LIBRARY - VPN STRONGLY RECOMMENDED**
 
@@ -45,7 +46,7 @@ Misc Zip:
 
 **Passcode is 1312**
 
-
+-----------------[Knowledgebase]---------------------
 
 **To take away the human scent from whatever I do, I make a scent-masking bath as follows:**
 First, take:

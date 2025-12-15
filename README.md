@@ -6,6 +6,9 @@
 **ICE Agent & Collaborator Tracking Project:**
   http://icelist.is
 
+**DIY ALPR Project**
+	https://github.com/jfh01/diy-alpr
+
 ------------------------[Resources]---------------------------
 
 **Foraging Map:**

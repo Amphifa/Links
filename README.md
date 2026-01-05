@@ -6,6 +6,9 @@
 **ICE Agent & Collaborator Tracking Project:**
   http://icelist.is
 
+**ICE Raid Alert Network**
+  http://stopICE.net
+
 **DIY ALPR Project**
 	https://github.com/jfh01/diy-alpr
 

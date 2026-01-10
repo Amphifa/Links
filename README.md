@@ -15,6 +15,9 @@
 **DeFlock**
 	https://deflock.me/map
 
+**3D Printable Whistle Resources**
+	https://migrawhistlepdx.org/downloads.html
+
 ------------------------[Resources]---------------------------
 
 **Foraging Map:**

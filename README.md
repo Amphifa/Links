@@ -15,8 +15,6 @@
 **DeFlock**
 	https://deflock.me/map
 
-**3D Printable Whistle Resources**
-	https://migrawhistlepdx.org/downloads.html
 
 ------------------------[Resources]---------------------------
 
@@ -28,6 +26,15 @@
 
 **De-Arrest Primer:**
   https://archive.org/details/dearrest_primer/page/n8/mode/1up
+
+**3D Printable Whistle Resources**
+	https://migrawhistlepdx.org/downloads.html
+
+**Washington State Firearm Laws**
+	https://www.canva.com/design/DAG-GLWLbUg/SsMipbVPF44HZrxXCRAIKQ/view
+
+**2026 Zine - Viva La Revolution**
+	https://www.canva.com/design/DAG99lNvvto/hD-5jQ6KXEy1kCbs78qPaw/view
 
 ------------------------[The Library]------------------------
 
